@@ -1,4 +1,4 @@
-package com.jalasoft.oopexcersises;
+package com.jalasoft.oopexercises.practice4;
 
 public class Car extends Land {
     private boolean useGas;

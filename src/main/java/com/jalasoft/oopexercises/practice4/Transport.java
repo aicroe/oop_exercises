@@ -1,4 +1,4 @@
-package com.jalasoft.oopexcersises;
+package com.jalasoft.oopexercises.practice4;
 
 public class Transport {
     private String name;

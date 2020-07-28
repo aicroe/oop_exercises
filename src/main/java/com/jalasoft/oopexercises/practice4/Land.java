@@ -1,4 +1,4 @@
-package com.jalasoft.oopexcersises;
+package com.jalasoft.oopexercises.practice4;
 
 public class Land extends Transport {
     private boolean hasMotor;
